@@ -19,7 +19,8 @@ Visualization – creating plots for ratings distribution, popular cuisines, and
 City-wise Analysis – comparing restaurant ratings and availability across locations
 Correlation Analysis – exploring relationships between ratings, cost, and other factors
 
-5.  Key Insights
+
+5.  Key Insights    
 Online orders has received higher ratings than offline.
 Online ordering availability is becoming a major factor in customer engagement.
 The majority of couples order their food with the cost of 300.
