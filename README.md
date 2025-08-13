@@ -14,7 +14,7 @@ NumPy – numerical calculations
 Matplotlib & Seaborn – data visualization
 
 
-4.  What’s in the Project?   
+3.  What’s in the Project?   
 Data Cleaning – handling missing values, duplicates, and formatting columns
 Exploratory Data Analysis (EDA) – summarizing the main characteristics of the dataset
 Visualization – creating plots for ratings distribution, popular cuisines, and price ranges
@@ -22,7 +22,7 @@ City-wise Analysis – comparing restaurant ratings and availability across loca
 Correlation Analysis – exploring relationships between ratings, cost, and other factors
 
 
-5.  Key Insights    
+4.  Key Insights    
 Online orders has received higher ratings than offline.
 Online ordering availability is becoming a major factor in customer engagement.
 The majority of couples order their food with the cost of 300.
