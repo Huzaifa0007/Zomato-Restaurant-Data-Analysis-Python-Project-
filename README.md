@@ -24,7 +24,6 @@ Using Python’s data analysis and visualization libraries, I cleaned, processed
   <li>Correlation Analysis – exploring relationships between ratings, cost, and other factors.</li>
 </ul>
 
-
 <h3>4.  Key Insights    </h3>
 <ul>
   <li>Online orders has received higher ratings than offline.</li>
@@ -33,3 +32,6 @@ Using Python’s data analysis and visualization libraries, I cleaned, processed
   <li>Majority of customers order from 'Dining' type of restaurant.</li>
   <li>Most Votes are given to 'Dining' type of restaurant and it has the lowest average rating.</li>
 </ul>
+
+<h3>A Few Notes</h3>
+<p>This is meant for learning and sharing—not for real-world business use.</p>
